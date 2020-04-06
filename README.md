@@ -14,7 +14,7 @@ Aplicação Back-end de gerenciamento de downloads de Videos do YouTube.
 - PostgreSQL >= 12.2
 - Redis >= 5.0.8
 
-> Uso opcional
+> * Uso opcional.
 
 
 ## 2. Instalação
